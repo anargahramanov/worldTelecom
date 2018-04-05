@@ -13,11 +13,11 @@ function scrapePage() {
 
         var $ = cheerio.load(html);
         var anar ="";
-         $("a").each(function (element) {
-            var a = $(this).text();
+         $("img").each(function (element) {
+            var a = $(this).attr("src");
             anar += a;
         });
-        fs.writeFile('a_tag_texts.txt', anar, function (err) {
+        fs.writeFile('img_src.txt', anar, function (err) {
             console.log('entire-page.html successfully written to HTML folder');
         });
     });
