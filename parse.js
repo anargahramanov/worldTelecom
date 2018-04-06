@@ -6,12 +6,13 @@ function scrapePage() {
     //make an HTTP request for the page to be scraped
     request('https://www.w-t.az', function (error, response, html) {
 
+        var url = 'https://www.w-t.az';
         var $ = cheerio.load(html);
         var anar ="";
          $(".nav a").each(function (element) {
             var a = $(this).text();
             var b = $(this).attr("href");
-            a += " - " + b;
+            a += " - " + url + b;
             anar += a;
         });
 

@@ -1,6 +1,6 @@
 
-Mobil telefonlar  - /c1-mobil-telefonlar
-Kompüterlər  - /c4-komputerler
-Nömrələr  - /c3-nomreler
-Aksesuarlar  - /c2-aksesuarlar
-Smart saatlar  - /c7-smart-saatlar
+Mobil telefonlar  - https://www.w-t.az/c1-mobil-telefonlar
+Kompüterlər  - https://www.w-t.az/c4-komputerler
+Nömrələr  - https://www.w-t.az/c3-nomreler
+Aksesuarlar  - https://www.w-t.az/c2-aksesuarlar
+Smart saatlar  - https://www.w-t.az/c7-smart-saatlar
