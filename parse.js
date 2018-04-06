@@ -10,6 +10,8 @@ function scrapePage() {
         var anar ="";
          $(".nav a").each(function (element) {
             var a = $(this).text();
+            var b = $(this).attr("href");
+            a += " - " + b;
             anar += a;
         });
 

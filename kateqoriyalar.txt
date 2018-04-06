@@ -1,6 +1,6 @@
 
-Mobil telefonlar 
-Kompüterlər 
-Nömrələr 
-Aksesuarlar 
-Smart saatlar 
+Mobil telefonlar  - /c1-mobil-telefonlar
+Kompüterlər  - /c4-komputerler
+Nömrələr  - /c3-nomreler
+Aksesuarlar  - /c2-aksesuarlar
+Smart saatlar  - /c7-smart-saatlar
